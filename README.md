@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anurag41682
-- 👀 I’m interested in developing games..
+- 👀 I’m interested in developing websites & webapps..
 - 🌱 I’m currently learning .c++..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
