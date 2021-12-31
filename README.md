@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag
 - 👀 I’m interested in developing websites & webapps..
-- 🌱 I’m currently learning .c++,Web Technologies.
+- 🌱 I’m currently learning C++,Web Technologies.
 - 💞️ I’m looking to collaborate on projects related to WebDevlopment.
 - 📫 How to reach me anuragyadav41682@gmail.com
 
